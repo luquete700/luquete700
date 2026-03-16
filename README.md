@@ -2,7 +2,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9D00FF&size=35&center=true&vCenter=true&width=1000&lines=System.out.println+"Olá,+Mundo!";+Meu+none+é+Caio+Felix;Tenho+20+Anos+;Sou+Do+Brasil;Sou+Técnico+em+Desenvolvimento+de+Sistemas;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9D00FF&size=35&center=true&vCenter=true&width=1000&lines=System.out.println+"Olá,+Mundo!";+Meu+none+é+Lucas+de+Castro;Tenho+20+Anos+;Sou+Do+Brasil;Sou+Técnico+em+Desenvolvimento+de+Sistemas;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
 
 
@@ -57,15 +57,15 @@ Meu nome é **Caio Felix**. Atualmente, sou graduando em **Engenharia de Softwar
 ### Minhas estatísticas no GitHub
 ---
 <div align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ASTRO-BOT344&show_icons=true&theme=radical&hide_border=false&custom_title=Estatísticas+do+GitHub" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luquete700&show_icons=true&theme=radical&hide_border=false&custom_title=Estatísticas+do+GitHub" />
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ASTRO-BOT344&layout=compact&theme=radical&hide_border=false&custom_title=Linguagens+Mais+Usadas" />
 </div>
 
 ---
 ### Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/caio-felix-5965032a7)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caiozzyn.05/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiofelixmaia@gmail.com)
 
 ---

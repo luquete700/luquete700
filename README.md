@@ -2,7 +2,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9D00FF&size=35&center=true&vCenter=true&width=1000&lines=System.out.println+"Olá,+Mundo!";+Meu+nome+é+Lucas+de+Castro;Tenho+20+Anos+;Sou+Do+Brasil;Sou+Técnico+em+Desenvolvimento+de+Sistemas;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9D00FF&size=35&center=true&vCenter=true&width=1000&lines=System.out.println+"Olá,+Mundo!";+Meu+nome+é+Lucas+de+Castro;Tenho+23+Anos+;Sou+Do+Brasil;Sou+Técnico+em+Desenvolvimento+de+Sistemas;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
 
 
